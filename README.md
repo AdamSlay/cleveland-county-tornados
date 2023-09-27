@@ -5,4 +5,18 @@ When making this notebook, I was mainly trying to experiment with meterological 
 In this report you'll find that since statistics regarding the exact location of tornadoes became reasonably accurate and not simply based on hearsay, Cleveland County has seen relatively few tornados compared to surrounding counties.
 The data is certainly interesting, but ultimately inconclusive. This was a fun exercise in data visualization and the use of Jupyter Notebooks. 
 
-To view the report simply click on the ```norman-tors.ipynb``` file.
+
+### Usage and Viewing
+To simply view a static version of the report click on the ```norman-tors.ipynb``` file.
+
+To run the Jupyter Notebook in the browser you need to make sure you have Jupyter Notebooks installed:
+```shell
+pip3 install notebook
+```
+
+Then to launch the notebook in the browser, navigate to the directory containing the ```norman-tors.ipynb``` file and run:
+```shell
+jupyter notebook
+```
+
+This will launch a new window in your browser where you can navigate to the ```norman-tors.ipynb``` file and view it using the Jupyter engine.
