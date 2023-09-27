@@ -6,9 +6,11 @@ In this report you'll find that since statistics regarding the exact location of
 The data is certainly interesting, but ultimately inconclusive. This was a fun exercise in data visualization and the use of Jupyter Notebooks. 
 
 
-### Usage and Viewing
-To simply view a static version of the report click on the ```norman-tors.ipynb``` file.
+### Viewing Static Version
+To simply view a static version of the report click on the ```norman-tors.ipynb``` file right here in the GitHub repo.
 
+
+### Running Jupyter Notebook
 To run the Jupyter Notebook in the browser you need to make sure you have Jupyter Notebooks installed:
 ```shell
 pip3 install notebook
@@ -19,4 +21,4 @@ Then to launch the notebook in the browser, navigate to the directory containing
 jupyter notebook
 ```
 
-This will launch a new window in your browser where you can navigate to the ```norman-tors.ipynb``` file and view it using the Jupyter engine.
+This will launch a new window in your browser where you can navigate to the ```norman-tors.ipynb``` file to view a running Jupyter Notebook.
